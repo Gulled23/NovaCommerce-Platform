@@ -29,7 +29,6 @@ Public subnets are used for resources that require internet access, such as load
 | novacommerce-public-subnet-2a | 10.0.1.0/24 | eu-west-2a |
 | novacommerce-public-subnet-2b | 10.0.2.0/24 | eu-west-2b |
 | novacommerce-public-subnet-2c | 10.0.3.0/24 | eu-west-2c |
-
 ---
 
 ## Private Subnets
